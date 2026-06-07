@@ -57,6 +57,7 @@ Compare original and generated images.
 Document differences and improvements.
 
 Output:
+https://kommodo.ai/i/o6hzmYcSAJMHUXqHklpX
 
 Result:
 Thus, the original image was successfully reproduced using prompt engineering techniques and AI image generation tools.
